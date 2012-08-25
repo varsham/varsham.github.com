@@ -31,20 +31,17 @@
         <section id="main-content">
          {{ content }}
         </section>
-
         <aside id="sidebar">
           <p style="font-weight:bold; font-size:large">Stories</b>
-<ul id="archive">
-  {% for post in site.posts offset:1 %}
-    <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    </li>
-  {% endfor %}
-</ul>
+          <ul id="archive">
+            {% for post in site.posts offset:1 %}
+              <li>
+                <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+              </li>
+            {% endfor %}
+          </ul>
         </aside>
       </div>
     </div>
-
-  
   </body>
 </html>
