@@ -88,7 +88,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-header a a:visited{
+header h1 a a:visited{
   color: #fff;
 }
 
