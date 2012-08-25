@@ -89,8 +89,12 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-header h1 > a a:visited{
-  color: #fff;
+a.headerLink {
+  color:#fff;
+}
+a.headerButton {
+  font-size: 23px;
+  color: white;  
 }
 
 .inner {
