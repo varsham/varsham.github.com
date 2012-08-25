@@ -69,6 +69,7 @@ header {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
+  color: #fff;
 }
 
 header h1 {
@@ -88,7 +89,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-header h1 a a:visited{
+header a a:visited{
   color: #fff;
 }
 
