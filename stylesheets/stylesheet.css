@@ -80,10 +80,6 @@ header h1 {
   width: 540px;
 }
 
-header h1 a a:visited{
-  color: #fff;
-}
-
 header h2 {
   font-size: 26px;
   color: #9ddcff;
@@ -91,6 +87,9 @@ header h2 {
   line-height: 1.3;
   width: 540px;
   letter-spacing: 0;
+}
+header a a:visited{
+  color: #9ddcff;
 }
 
 .inner {
