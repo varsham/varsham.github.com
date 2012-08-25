@@ -89,9 +89,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-a.headerLink {
-  color:#fff;
-}
+
 a.headerButton {
   font-size: 23px;
   color: white;  
@@ -102,6 +100,10 @@ a.headerButton {
   width: 940px;
   margin: 0 auto;
 }
+
+.inner h1 a a:visited{
+  color: white;
+  }
 
 #content-wrapper {
   border-top: solid 1px #fff;
