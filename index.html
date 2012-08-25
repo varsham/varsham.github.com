@@ -3,3 +3,9 @@ layout: default
 ---
 
  Welcome to my story land.  Here you will read stories written by me.  I write stories in a paper.  And my dad and sister types them. I am learning typing. I soon type my own stories.
+
+ <article>
+  <time datetime="{{ site.posts.first.date | xmlschema }}">{{ site.posts.first.date | date: "%d %b" }}</time>
+  <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
+  {{ site.posts.first.content }}
+</article>
