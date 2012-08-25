@@ -3,8 +3,6 @@ layout: post
 title: The Insects liken't People
 ---
 
-The Insects liken't People
-
 There were happy insects living in the tall grass but people were lawn mowing their grass homes!
 So the leader of the group went to Mary.  The leader of the group was Banic.  He asked if Mary could help him.
 Mary said my only choice is to make very hard plastic tall grass, but ah! bu Ah!, Go on, Go on said Banic.
