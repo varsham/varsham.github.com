@@ -89,7 +89,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-header a a:visited{
+header h1 > a a:visited{
   color: #fff;
 }
 
@@ -146,12 +146,12 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
+/*header a.button {
   position: absolute;
   right: 0;
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
+}*/
 aside a.button {
   width: 138px;
   padding-left: 64px;
