@@ -505,8 +505,13 @@ footer a:hover {
 
 #archive ul{
   list-style: none;
+  list-style-type: none;
 }
 
 #archive a {
+  color: blue;
+}
+
+#paginator a {
   color: blue;
 }
