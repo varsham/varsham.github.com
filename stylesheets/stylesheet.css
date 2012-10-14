@@ -502,3 +502,11 @@ footer a:hover {
     border:0;
     display:block;
 }
+
+#archive ul{
+  list-style: none;
+}
+
+#archive a {
+  color: blue;
+}
