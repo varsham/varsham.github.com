@@ -101,7 +101,7 @@ a.headerButton {
   margin: 0 auto;
 }
 
-.inner h1 a,a:visited{
+header h1 a,a:visited{
   color: white;
 }
 
@@ -507,10 +507,3 @@ footer a:hover {
   list-style: none;
 }
 
-#archive a {
-  color: blue;
-}
-
-#paginator a {
-  color: blue;
-}
