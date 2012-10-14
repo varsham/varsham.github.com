@@ -101,7 +101,7 @@ a.headerButton {
   margin: 0 auto;
 }
 
-header h1 a,a:visited{
+#header h1 a,a:visited{
   color: white;
 }
 
