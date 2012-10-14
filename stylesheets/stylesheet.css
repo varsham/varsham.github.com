@@ -101,7 +101,7 @@ a.headerButton {
   margin: 0 auto;
 }
 
-#headerlink a,a:visited{
+.inner h1 a,a:visited{
   color: white;
 }
 
@@ -507,3 +507,6 @@ footer a:hover {
   list-style: none;
 }
 
+#content-wrapper  a{
+  color: #2879D0
+}
