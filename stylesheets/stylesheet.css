@@ -48,11 +48,11 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-size: 15px;
-  line-height: 1.5; 
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 14px;
+  line-height: 1; 
+  font-family: "Open Sans Condensed", sans-serif;
   font-weight: 400;
-  color: #666;
+  color: #6E6E75;
 }
 
 a {
