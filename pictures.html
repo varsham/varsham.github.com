@@ -19,7 +19,8 @@
       $container.imagesLoaded(function(){
         $container.masonry({
           itemSelector : '.item',
-          columnWidth : 240
+           columnWidth: function( containerWidth ) {
+              return containerWidth / 5;
         });
       });
     });
