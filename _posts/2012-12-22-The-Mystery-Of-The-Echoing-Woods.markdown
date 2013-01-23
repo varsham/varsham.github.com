@@ -1,8 +1,10 @@
-
-
-title:The Mystery Of The  Echoing Woods  
+---
+layout: post
+title: The Mystery Of The  Echoing Woods
+---
 
 CHAPTER 1
+
 One day there was a little boy named Jaylen.
  Jaylen lived in China near the Big Woods.
 One cold night, there was some echoing sound.

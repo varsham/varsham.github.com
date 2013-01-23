@@ -1,3 +1,8 @@
+---
+layout: post
+title: Albony, The Sunlight Child
+---    
+
 #Albony, The Sunlight Child
 
 ###CHAPTER 1
