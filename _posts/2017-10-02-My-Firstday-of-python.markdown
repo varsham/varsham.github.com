@@ -2,12 +2,19 @@
 
 
 terminal - command line tool to run my programs
+
 mkdir - Creates a directory
+
 cd - change to that director
+
 touch - to create a file 
+
 cal - shows calendar on the terminal
+
 pwd - present working directory
+
 whoami - user on my mac
+
 code . - opens visual studio code editor
 
 rm - remove file
