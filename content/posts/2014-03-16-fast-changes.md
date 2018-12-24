@@ -1,0 +1,18 @@
+---
+author: Varsha
+categories:
+- Uncategorized
+date: "2014-03-16T13:56:09Z"
+guid: http://varsham.azurewebsites.net/?p=4253
+id: 4253
+title: Fast Changes
+url: /?p=4253
+---
+
+She walked around the tattered house. It was her mother's house. The family was homeless. The 5 year old girl didn't understand why this house, the house that she loved, was lifeless from the happy times. Her name was Rachel. Now the family lived at the kind neighbor's house. The girl did not understand why.
+
+In Rachel's horrible world, each family should have a house. Homeless people were not allowed to be showed out to the mean government police officers. But that government thought they were nice to their people. They thought they were absolutely right. But this girl did not know the rules. She was only 5 years old.  "Rachel, quick! This time, the police will come. They might catch you! " The soft voice of Rachel's mother was clear to her. Rachel ran as fast as she could to her dear mother. But it was too late. Rachel's mother was dragged and taken away.
+
+Now Rachel was with her father. She ran around panicking.  "Calm down, child. It is me. Where is your mother? " The girl turned around to see her father. She ran into his waiting arms. She said, "Ma Ma gone by poffick offekoo's! " Her father chuckled. Rachel had the perfect 5 year old face for her hard-to-understand words. But her father knew it all. She had been talking like that ever since. Then, the young girl's father felt a pull on him.  "Homeless, eh? We've got your mother! " They left, leaving a second tattered house on the way. They weren't trained enough to take them both. The police officers had forgotten what their master had said.
+
+Suddenly, something came floating from the sky. This world also had magic. The 2 were happy when they saw an angel to help them. But what they did not notice was horns. Flaming horns. The angel was sent from the monster to curse the homeless. The bad angel knew that they were homeless because of the tattered clothes. People with homes would not be in a ruckus of fallen houses.  "I curse you that if any of you are caught, you will be turned into monsters. " The evil one said. But, it forgot this part: no one will ever help you in this situation! But the out of mind angel also did not know that curses could be removed. It was because that angel had not gone to bad angel school because of laziness. Also reader, The mother was a monster now. All because of the curable but horrible curse. And everyone knows that curses are bad. No one likes them. Now, let us go to the prison where the poor changing mother was. As soon as the curse was given, the mother started changing. At first, her hands turned stiff and green. Every part of her body turned stiff and green. Next she grew horns. The same red flaming horns of the cursing angel. The same kind, actually. Then, she grew green hairs. The thing was done. The mother looked like a green bull with red horns that could stand up on it's ugly hind feet. Luckily, a good magician helped the mother by unlatching the locks. The monster killed the police officers and the whole government with the sharp claws. The magician used a spell to turn the mean monster into the same loving mother. When the mother jogged out of the prison, not knowing who changed her back, ran to the 2 tattered houses and found her family members.  "The government and police are dead!! " said the mother.  "How dear?!?! " asked Rachel's father. But right on the boards, the mother was fast asleep.

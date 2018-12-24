@@ -1,3 +1,0 @@
-# Bubble Wonder
-
-Bubble wonder is fun but, when we do it the bubble soap gets on your hands it will make you stiff on your hands if you wash them. So sometimes bubble wonder is not fun. But mostly you reconize that bubble wonder is fun alot of times.Bubble wonder means blowing bubbles always when you blow bubbles. so that's one thing about bubble wonder, how it is fun. Now let's merge on to the next thing, what to do with bubble wonder.It is easy,Just pick up your spoon dipper from the bubble soap and blow on the hole to see how bubble wonder works.And one last thing I am telling you bubble wonder is very very beautiful. 

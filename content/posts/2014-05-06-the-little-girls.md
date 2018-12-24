@@ -1,0 +1,34 @@
+---
+author: Varsha
+categories:
+- Uncategorized
+date: "2014-05-06T22:33:21Z"
+guid: http://varsham.azurewebsites.net/?p=5031
+id: 5031
+title: Disappearence
+url: /?p=5031
+---
+
+The little girl ran breathlessly through the spring air, feeling fresh. Her land, Leafland, was always like that. “March, calm down!” said her father as she almost knocked him over. Her name was March, and she had a shiny white smile with her. 10 year old March collected leaves for her grandfather’s leaf necklace studio and crept up silently to his door.She then burst open with her shiny white smile. After a bit of laughter, March’s Grandfather went to work. . In Leafland, you were supposed to have all your family members in your house. The reason that March only had her grandfather was because everybody but her parents and her grandfather died. It was a mystery, and March knew most about it.
+
+CHAPTER 1
+
+March was the only one in her school with only a grandfather and parents, and she did not mind much about it. She did not tell, so no one teased her. March would always think doubtfully of what the strange thing was that hurt her loved ones. Even sometimes she would brush a small tear. You might not know, but it was so painful. This land seems like a normal world, but in America, March is 13. But in her country’s age, she was ten and in 5<sup>th</sup> grade. March went home, feeling doubtful. When March went to bed that night, she started dreaming about this magic school called Ladonia. Whatever you dream, you are there. March had always wanted to go to Ladonia, and she had got her wish.
+
+CHAPTER 2
+
+“Remember, this school is good, but it is a terror school.” From that voice, March woke up. She realized that her dreams had taken her to Ladonia. But how could this school be a terror school? Oh, she would figure out. March walked down the twisting hallways. She found a classroom with a sad teacher. March walked in. The teacher suddenly had scaly fingers, 8 octopus legs, and a cheetah body. It took the hamster out of the cage, and coiled his 8 legs around it, and sucked it inside his huge, gaping, mouth. March almost cried to see the poor little thing being eaten by a big ferocious monster- It is just so sad. Ha! One clue! A terror school! At this point of time, March wanted to go home. She tried everything she could do, but never came home. March was a weakling, and she wept at the loss of her loves. There was nothing she could do, until this kind woman led her to the wizard. She asked him if she could go home. Whooooosh! Ta damshhhhhhhhhhhhhhhhhh! March was home. Gleefully, she skipped to the red house with the green door. Her mother doubt fully looked at her. “I don’t remember you here, I already have a daughter! You can’t come inside, dear. Go find your real mother!” A sad March left the house and wept, for the adventure made her mother forget her. She was her true daughter. She tried every house on the street, but they all said the same thing. Her grandfather and father said the same thing, too.  Now it was only her who was left in the family. Everyone had forgotten her.
+
+ 
+
+CHAPTER 3
+
+March slapped all of her remaining people on the cheek, and their memory returned. March was so glad that she ran into their arms with her tears running down her soft cheek. March’s mother pushed the other girl out the window. This story may be short, but it has adventure.
+
+AUOTHER’S NOTE
+
+I like adventure books, and I love to write them. I always picture it in my mind as I write. I also love to write.
+
+From,
+
+Varsha Makkapati

@@ -1,0 +1,29 @@
+baseurl = "https://varshamk.github.io"
+title = "Poryland"
+copyright = "Copyright &copy; 2017 - Varsha"
+canonifyurls = true
+theme = "kiera"
+disablePathToLower= true
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+
+
+summaryLength = 30
+enableEmoji = true
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "Varsha's blog"
+
+
