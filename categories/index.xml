@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Poryland</title>
+    <link>https://varshamk.github.io/categories/</link>
+    <description>Recent content in Categories on Poryland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Varsha</copyright>
+    
+	<atom:link href="https://varshamk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poem</title>
+      <link>https://varshamk.github.io/categories/poem/</link>
+      <pubDate>Sat, 22 Apr 2017 23:03:18 +0000</pubDate>
+      
+      <guid>https://varshamk.github.io/categories/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://varshamk.github.io/categories/review/</link>
+      <pubDate>Wed, 09 Aug 2017 22:21:07 +0000</pubDate>
+      
+      <guid>https://varshamk.github.io/categories/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://varshamk.github.io/categories/story/</link>
+      <pubDate>Sun, 27 Dec 2015 15:24:54 +0000</pubDate>
+      
+      <guid>https://varshamk.github.io/categories/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://varshamk.github.io/categories/uncategorized/</link>
+      <pubDate>Tue, 05 Jun 2018 00:53:36 +0000</pubDate>
+      
+      <guid>https://varshamk.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
