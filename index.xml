@@ -6,10 +6,20 @@
     <description>Recent content on Varsha</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Varsha</copyright>
-    <lastBuildDate>Tue, 05 Jun 2018 00:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://varsham.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github Testing Post</title>
+      <link>https://varsham.github.io/posts/testing-post/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://varsham.github.io/posts/testing-post/</guid>
+      <description>Github Testing Post Content Important Information Lorem ipsum dolores
+Lorem ipsum dolores</description>
+    </item>
     
     <item>
       <title>The Interviewer: Short Story #1</title>
